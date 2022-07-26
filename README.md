@@ -1,4 +1,4 @@
-# Aplicativo timer para desktop usando electron
+# Lidando com dados de muitas dimensões
 
 <hr>
 
